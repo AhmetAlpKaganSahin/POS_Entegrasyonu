@@ -18,3 +18,5 @@ I truly enjoyed building this application and learned a great deal about fintech
 - Flask
 - Requests (for HTTP requests)
 - xml.etree.ElementTree (for XML parsing)
+
+Special thanks to my fellow intern [Aleyna Kılıç](https://github.com/Aleynaa67) for your collaboration and support.
